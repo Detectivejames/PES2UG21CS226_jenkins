@@ -22,7 +22,7 @@ pipeline {
   }
   post {
     failure {
-      echo 'Pipeline Failed!'
+      ecAo 'Pipeline Failed!'
     }
   }
 }
