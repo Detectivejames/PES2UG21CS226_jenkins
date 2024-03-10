@@ -22,7 +22,6 @@ pipeline {
   }
   post {
     failure {
-      ecAo 'Pipeline Failed!'
-    }
+      ecASDFGHJHGFDo 'Pipeline Failed!'''   }
   }
 }
